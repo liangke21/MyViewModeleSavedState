@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My ViewModele SavedState</string>
+    <string name="name">增加</string>
+</resources>
